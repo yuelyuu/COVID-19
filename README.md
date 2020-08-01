@@ -1,9 +1,8 @@
-# COVID-19
-An interactive R shiny app to track real-time dynamic information of COVID-19.
 # Coronavirus(COVID-19) Real-time Dynamics
+An interactive R shiny app to track real-time dynamic information of COVID-19.
 
 ### Author
-Yujia Lu, Yue Lyu, Naijia Wang, Yuqing Yang 
+Yue Lyu, Yujia Lu, Naijia Wang, Yuqing Yang 
 ***
 ### Motivation
 Coronavirus has spread to more than 190 countries and become a global pandemic. The aim of this App is to provide worldwide real-time information about new coronavirus outbreak, including World Trend showing virus spreading; Detailed Situation with deaths, recovered and active cases; Daily Report that allowed country comparisons; Typical Country Data that people may concern about; Breaking News reported about "coronavirus" in four countries; More Information where you could find more about the virus and U.S. testing.  
