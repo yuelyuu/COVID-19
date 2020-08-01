@@ -24,7 +24,7 @@ Coronavirus has spread to more than 190 countries and become a global pandemic. 
 - Daily Report:  
 
 
-&emsp; Next page is called [Daily Report]. It is the line chart of the cumulative confirmed and daily new confirmed, death or recovered cases of different countries. Users can choose the countries they are interested in by selecting the country in the top left bar called “Select Countries”. They can select multiple countries in the bar for comparison.  
+&emsp; It is the line chart of the cumulative confirmed and daily new confirmed, death or recovered cases of different countries. Users can choose the countries they are interested in by selecting the country in the top left bar called “Select Countries”. They can select multiple countries in the bar for comparison.  
 
 - Typical Country Data:  
 
