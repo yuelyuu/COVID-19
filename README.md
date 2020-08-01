@@ -15,7 +15,7 @@ Coronavirus has spread to more than 190 countries and become a global pandemic. 
 
 &emsp; Our home page is the real-time world situation map showing the total cases confirmed, deaths and recovered. Users can choose countries that they are interested in to see the further details of that country.  
 
-![image](https://github.com/STA141B/final-project/blob/master/Dashboard.png)
+![image](https://github.com/yuelyuu/COVID-19/blob/master/Dashboard.png)
 
 - Detailed Situation:  
 
