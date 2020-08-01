@@ -1,5 +1,7 @@
 # Coronavirus(COVID-19) Real-time Dynamics
 - An interactive R shiny app to track real-time dynamic information of COVID-19.
+
+
 &emsp; https://coronavirus-real-time-dynamics.shinyapps.io/COVID-19-Real-Time-Dynamics/
 
 ### Author
